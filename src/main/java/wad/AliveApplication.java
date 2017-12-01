@@ -15,7 +15,7 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/inla/wepa2017-AliveApplication";
     }
 
     public static String herokuUrl() {
